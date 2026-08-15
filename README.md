@@ -25,7 +25,7 @@ Most loudness tools measure true peak on your source PCM and apply gain based on
 ## Installation
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/true-peak-maximize.git
+git clone https://github.com/internetuser22/truepeak_multipass_audio_encoder.git
 cd true-peak-maximize
 ```
 
