@@ -3,7 +3,7 @@
 
 A true-peak-safe loudness maximizer for lossless and lossy audio. Pushes a file as loud as possible without exceeding a true-peak (inter-sample peak) ceiling — verifying the *actual encoded output* on every pass, rather than trusting a pre-encode prediction.
 
-> Made by [240z] — I mix and master tracks professionally. [https://www.fiverr.com/s/kLdd0bA](FIVERR_LINK_HERE).
+> Made by [240z] — I mix and master tracks professionally. [fiverr](https://www.fiverr.com/s/bd44oXP).
 
 ## The problem this solves
 
